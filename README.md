@@ -41,7 +41,7 @@
 
 Задание 5. 
 
-[Создать Scripted Pipeline] (https://github.com/kshatyy/ci-03/tree/main/pipeline)
+[Создать Scripted Pipeline](https://github.com/kshatyy/ci-03/tree/main/pipeline)
 
 Задание 6. 
 
