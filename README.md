@@ -55,4 +55,4 @@
 
 [Declarative Pipeline](https://github.com/kshatyy/Ansible.git)
 
-[Scripted Pipeline]([https://github.com/kshatyy/Ansible.git](https://github.com/kshatyy/terraform/blob/main/ScriptedJenkinsfile))
+[Scripted Pipeline](https://github.com/kshatyy/terraform/blob/main/ScriptedJenkinsfile)
