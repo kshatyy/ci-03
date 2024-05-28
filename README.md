@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Домашнее задание к занятию «Процессы CI/CD»`" - `Шатый Константин`
+# Домашнее задание к занятию "`Домашнее задание к занятию «Jenkins»`" - `Шатый Константин`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -18,27 +18,18 @@
    
 ### Дополнительные материалы, которые могут быть полезны для выполнения задания
 
-1. [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637#Code)
-
----
-### SonarQube
+1. 
 
 <img src="img/1.png">
 
-<img src="img/1-2.png">
 
-<img src="img/1-3.png">
+2. 
 
-### Nexus
+<img src="img/2.png">
 
-<img src="img/1-4.png">
+<img src="img/3.png">
 
-[maven-metadata.xml](https://github.com/kshatyy/ci-02/blob/main/dz/maven-metadata.xml)
 
-### Maven
+3. 
 
-<img src="img/1-5.png">
-
-<img src="img/1-6.png">
-
-[pom.xml](https://github.com/kshatyy/ci-02/blob/main/dz/pom.xml)
+<img src="img/4.png">
