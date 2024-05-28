@@ -52,3 +52,4 @@
 <img src="img/8.png">
 
 Задание 8.
+[Declarative Pipeline](https://github.com/kshatyy/Ansible.git)
