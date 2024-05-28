@@ -53,6 +53,6 @@
 
 Задание 8.
 
-[Declarative Pipeline](https://github.com/kshatyy/vector-role-master/blob/main/Jenkinsfile))
+[Declarative Pipeline](https://github.com/kshatyy/vector-role-master/blob/main/Jenkinsfile)
 
 [Scripted Pipeline](https://github.com/kshatyy/java/blob/main/ScriptedJenkinsfile)
