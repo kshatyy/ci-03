@@ -55,4 +55,4 @@
 
 [Declarative Pipeline](https://github.com/kshatyy/vector-role-master/blob/main/Jenkinsfile))
 
-[Scripted Pipeline](https://github.com/kshatyy/terraform/blob/main/ScriptedJenkinsfile)
+[Scripted Pipeline](https://github.com/kshatyy/java/blob/main/ScriptedJenkinsfile)
